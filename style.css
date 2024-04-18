@@ -88,4 +88,8 @@ body {
   .menu-btn.active svg line:last-child {
     transform: rotate(-45deg) translateX(10px);
   }
-  
+  h1, h2, h3{
+    font-family: "Love Ya Like A Sister", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
